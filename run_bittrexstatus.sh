@@ -1,0 +1,1 @@
+phantomjs bittrex_status.js
